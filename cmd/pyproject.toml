@@ -1,5 +1,5 @@
 [project]
-name = "DONGUK777_lotto"
+name = "cmd"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
